@@ -4,7 +4,7 @@
  <title>Poole</title>
  <link href="http://getpoole.com/atom.xml" rel="self"/>
  <link href="http://getpoole.com/"/>
- <updated>2014-10-05T22:56:21-07:00</updated>
+ <updated>2014-10-05T23:09:23-07:00</updated>
  <id>http://getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -21,9 +21,12 @@
 
 &lt;hr&gt;
 
-&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It&amp;#39;s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
-
-&lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
+&lt;p&gt;$$ f(x,y) = x y $$
+Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It&amp;#39;s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+$$
+f(x,y) = x y
+$$
+There are currently two themes built on Poole:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
